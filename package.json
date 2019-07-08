@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "16.8.6",
     "react-native": "0.60.0",
-    "react-native-music-control": "^0.10.4"
+    "react-native-music-control": "github:timmywil/react-native-music-control#feature/androidx-compiled"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
